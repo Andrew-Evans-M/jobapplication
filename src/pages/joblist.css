@@ -1,0 +1,39 @@
+.cards{
+    margin: 15px;
+    min-height: 350px;
+    height: 350px;
+}
+.cards:hover{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+
+}
+.card-title{
+    white-space: normal;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    word-break: break-word;
+    -webkit-box-orient: vertical;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    cursor: pointer;
+}
+.card-subtitle{
+    white-space: normal;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    word-break: break-word;
+    -webkit-box-orient: vertical;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    cursor: pointer;
+} 
+.card-description{
+    white-space: normal;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    word-break: break-word;
+    -webkit-box-orient: vertical;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    cursor: pointer; 
+}

@@ -1,0 +1,150 @@
+{
+    "jobs": [
+      {
+        "id": 1,
+        "title": "Frontend Developer",
+        "company": "Tech Corp",
+        "experienceRequired": 2,
+        "skillsRequired": ["React", "JavaScript", "CSS"],
+        "description": "We are looking for a Frontend Developer with experience in React."
+      },
+      {
+        "id": 2,
+        "title": "Backend Developer",
+        "company": "Data Solutions",
+        "experienceRequired": 3,
+        "skillsRequired": ["Node.js", "Express", "MongoDB"],
+        "description": "Seeking a skilled Backend Developer for server-side development."
+      },
+      {
+        "id": 3,
+        "title": "Frontend Developer",
+        "company": "Tech Corp",
+        "experienceRequired": 2,
+        "skillsRequired": ["React", "JavaScript", "CSS"],
+        "description": "We are looking for a Frontend Developer with experience in React."
+      },
+      {
+        "id": 4,
+        "title": "Backend Developer",
+        "company": "Data Solutions",
+        "experienceRequired": 3,
+        "skillsRequired": ["Node.js", "Express", "MongoDB"],
+        "description": "Seeking a skilled Backend Developer for server-side development."
+      },
+      {
+        "id": 5,
+        "title": "Frontend Developer",
+        "company": "Tech Corp",
+        "experienceRequired": 2,
+        "skillsRequired": ["React", "JavaScript", "CSS"],
+        "description": "We are looking for a Frontend Developer with experience in React."
+      },
+      {
+        "id": 6,
+        "title": "Backend Developer",
+        "company": "Data Solutions",
+        "experienceRequired": 3,
+        "skillsRequired": ["Node.js", "Express", "MongoDB"],
+        "description": "Seeking a skilled Backend Developer for server-side development."
+      },
+      {
+        "id": 7,
+        "title": "Frontend Developer",
+        "company": "Tech Corp",
+        "experienceRequired": 2,
+        "skillsRequired": ["React", "JavaScript", "CSS"],
+        "description": "We are looking for a Frontend Developer with experience in React."
+      },
+      {
+        "id": 8,
+        "title": "Backend Developer",
+        "company": "Data Solutions",
+        "experienceRequired": 3,
+        "skillsRequired": ["Node.js", "Express", "MongoDB"],
+        "description": "Seeking a skilled Backend Developer for server-side development."
+      },
+      {
+        "id": 9,
+        "title": "Frontend Developer",
+        "company": "Tech Corp",
+        "experienceRequired": 2,
+        "skillsRequired": ["React", "JavaScript", "CSS"],
+        "description": "We are looking for a Frontend Developer with experience in React."
+      },
+      {
+        "id": 10,
+        "title": "Backend Developer",
+        "company": "Data Solutions",
+        "experienceRequired": 3,
+        "skillsRequired": ["Node.js", "Express", "MongoDB"],
+        "description": "Seeking a skilled Backend Developer for server-side development."
+      },
+      {
+        "id": 11,
+        "title": "Frontend Developer",
+        "company": "Tech Corp",
+        "experienceRequired": 2,
+        "skillsRequired": ["React", "JavaScript", "CSS"],
+        "description": "We are looking for a Frontend Developer with experience in React."
+      },
+      {
+        "id": 12,
+        "title": "Backend Developer",
+        "company": "Data Solutions",
+        "experienceRequired": 3,
+        "skillsRequired": ["Node.js", "Express", "MongoDB"],
+        "description": "Seeking a skilled Backend Developer for server-side development."
+      },
+      {
+        "id": 13,
+        "title": "Frontend Developer",
+        "company": "Tech Corp",
+        "experienceRequired": 2,
+        "skillsRequired": ["React", "JavaScript", "CSS"],
+        "description": "We are looking for a Frontend Developer with experience in React."
+      },
+      {
+        "id": 14,
+        "title": "Backend Developer",
+        "company": "Data Solutions",
+        "experienceRequired": 3,
+        "skillsRequired": ["Node.js", "Express", "MongoDB"],
+        "description": "Seeking a skilled Backend Developer for server-side development."
+      },
+      {
+        "id": 15,
+        "title": "Frontend Developer",
+        "company": "Tech Corp",
+        "experienceRequired": 2,
+        "skillsRequired": ["React", "JavaScript", "CSS"],
+        "description": "We are looking for a Frontend Developer with experience in React."
+      },
+      {
+        "id": 16,
+        "title": "Backend Developer",
+        "company": "Data Solutions",
+        "experienceRequired": 3,
+        "skillsRequired": ["Node.js", "Express", "MongoDB"],
+        "description": "Seeking a skilled Backend Developer for server-side development."
+      },
+      {
+        "id": 17,
+        "title": "Frontend Developer",
+        "company": "Tech Corp",
+        "experienceRequired": 2,
+        "skillsRequired": ["React", "JavaScript", "CSS"],
+        "description": "We are looking for a Frontend Developer with experience in React."
+      },
+      {
+        "id": 18,
+        "title": "Backend Developer",
+        "company": "Data Solutions",
+        "experienceRequired": 3,
+        "skillsRequired": ["Node.js", "Express", "MongoDB"],
+        "description": "Seeking a skilled Backend Developer for server-side development."
+      }
+    ],
+    "applications": []
+  }
+  
